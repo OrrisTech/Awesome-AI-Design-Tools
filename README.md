@@ -39,6 +39,7 @@ A collection of the best AI design tools to enhance your creativity, productivit
 
 ## Other Design Areas: Architectural Design
 
+- **[LandscapioAI](https://www.landscapioai.com/)**: AI landscape design generator for before/after yard concepts, planting plans, and cost estimates.
 - **[ArchitectAI.app](https://architectai.app/?utm_source=designaitool.com&utm_medium=referral&utm_campaign=master-3d-sculpting-with-these-20-zbrush-tutorials-in-just-minutes)**: AI platform enhances architectural design with automated recommendations.
 - **[v.1.0](https://www.toolify.ai/tool/architectai?utm_source=designaitool.com&utm_medium=referral&utm_campaign=canva-s-top-design-trends-for-2025)**: AI platform enhances architectural design with automated recommendations.
 - **[nan](https://www.toolify.ai/tool/architectai?utm_source=designaitool.com&utm_medium=referral&utm_campaign=canva-s-top-design-trends-for-2025)**: AI platform enhances architectural design with automated recommendations.

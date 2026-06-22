@@ -171,7 +171,7 @@ A collection of the best AI design tools to enhance your creativity, productivit
 - **[Fable](https://appsumo.com/products/fable/?utm_source=designaitool.com&utm_medium=referral&utm_campaign=openai-s-browser-ambitions-revealed)**: Create interactive demos and step-by-step guides to drive more conversions
 - **[Vercel v0](https://supertools.therundown.ai/content/vercel-v0?utm_source=designaitool.com&utm_medium=referral&utm_campaign=openai-backed-robot-can-clean-your-home)**: Generate UI with simple text prompts and images
 - **[Softgen](https://www.toolify.ai/tool/softgen?utm_source=designaitool.com&utm_medium=referral&utm_campaign=the-hottest-typography-trends-to-watch-in-2025)**: AI Web App Builder for quick, no-code application creation.
-- [You x You i](https://www.youxyoui.io/) - Automated UX / UI feedback for conversion and user acquisition.
+- **[You x You i](https://www.youxyoui.io/)**: Automated UX / UI feedback for conversion and user acquisition.
 
 ## Web Design: Responsive Design
 

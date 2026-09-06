@@ -31,6 +31,7 @@ A collection of the best AI design tools to enhance your creativity, productivit
 - **[Triplo AI](https://appsumo.com/products/triplo-ai/?utm_source=designaitool.com&utm_medium=referral&utm_campaign=siri-s-vision-upgrade-is-coming)**: Boost your productivity with an Al assistant that’s accessible on desktop and mobile
 - **[Simplicity AI](https://www.toolify.ai/tool/simplicityai?utm_source=designaitool.com&utm_medium=referral&utm_campaign=ai-is-turning-everyone-into-a-designer-the-democratization-of-creativity)**: Instantly create stunning product images using AI technology.
 - **[Screen Story](https://appsumo.com/products/screen-story/?utm_source=designaitool.com&utm_medium=referral&utm_campaign=paris-olympics-broadcast-powered-by-ai-discover-how)**: Aesthetic screen recordings in minutes (best for promo videos, tutorials, product updates + demos).
+- **[Trupeer](https://www.trupeer.ai/)**: AI-powered tool that transforms screen recordings into polished product videos and step-by-step documentation.
 
 ## Interior Design: Decoration & Material Design
 

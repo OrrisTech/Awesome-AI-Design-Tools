@@ -51,6 +51,7 @@ A collection of the best AI design tools to enhance your creativity, productivit
 
 ## Other Design Areas: Miscellaneous Graphic Design
 
+- **[ClearCrowds](https://www.clearcrowds.com)**: AI photo cleanup tool for removing crowds, objects, clutter, glare, text, shadows, and distracting background elements from images.
 - **[BidPacer](https://bidpacer.ai/?utm_source=designaitool.com&utm_medium=referral&utm_campaign=openai-s-1m-coding-challenge)**: AI tool for creating custom freelance job proposals.
 - **[ZeeInvoices](https://zeeinvoices.com/?utm_source=designaitool.com&utm_medium=referral&utm_campaign=openai-s-1m-coding-challenge)**: Free AI-powered personalized invoices for businesses.
 - **[Yescribe](https://yescribe.ai/?utm_source=designaitool.com&utm_medium=referral&utm_campaign=openai-s-1m-coding-challenge)**: AI transcription service for audio and video files.

@@ -9,6 +9,7 @@ A collection of the best AI design tools to enhance your creativity, productivit
 ## Graphic Design: Illustration & Art Design
 
 - **[Raphael](https://raphael.app)**: AI creative workspace for image, video, and design production in one place.
+- [Yeri AI](https://yeri.ai) - Free AI image generator for shipping-side project visuals.
 - **[SciSummary](https://scisummary.com/?utm_source=designaitool.com&utm_medium=referral&utm_campaign=openai-s-1m-coding-challenge)**: AI tool for fast summarization of scientific articles.
 - **[PearAI](https://trypear.ai/?utm_source=designaitool.com&utm_medium=referral&utm_campaign=opera-s-ai-hijacks-your-browser-wow)**: Open-source AI code editor for faster development and smarter coding.
 - **[PIXEL DOJO](https://www.toolify.ai/tool/pixeldojo?utm_source=designaitool.com&utm_medium=referral&utm_campaign=the-adorable-fusion-of-hello-kitty-and-rubik-s-cube)**: Create AI art with cutting-edge tools.

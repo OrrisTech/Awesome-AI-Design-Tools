@@ -5,6 +5,7 @@ A collection of the best AI design tools to enhance your creativity, productivit
 ## Graphic Design: Branding & Logo Design
 
 - **[LogoGen](https://www.toolify.ai/tool/logogen?utm_source=designaitool.com&utm_medium=referral&utm_campaign=ai-is-turning-everyone-into-a-designer-the-democratization-of-creativity)**: AI logo generator that leverages proprietary, Stable Diffusion, and Flux models to create custom logos in seconds.
+- **[QRX](https://qrx.codes)**: Branded, print-ready art QR codes made from a text prompt and checked to scan before delivery.
 
 ## Graphic Design: Illustration & Art Design
 

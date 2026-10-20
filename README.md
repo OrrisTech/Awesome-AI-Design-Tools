@@ -26,6 +26,7 @@ A collection of the best AI design tools to enhance your creativity, productivit
 - **[Pixcap](https://www.toolify.ai/tool/pixcap-3d-illustration-pack?utm_source=designaitool.com&utm_medium=referral&utm_campaign=revolutionizing-architecture-with-generative-ai-design)**: Pixcap is an innovative graphic design tool that uses 3D and AI to generate endless design options.
 - **[Pixelicious](https://www.toolify.ai/tool/pixelicious?utm_source=designaitool.com&utm_medium=referral&utm_campaign=exploring-the-2d-art-of-sophia-du)**: Convert images into retro-style pixel art masterpieces with Pixelicious.
 - **[OpenDream](https://www.toolify.ai/tool/open-dream?utm_source=designaitool.com&utm_medium=referral&utm_campaign=transforming-ideas-into-breakthrough-products-with-ai-prototyping)**: Create stunning AI-generated artwork in seconds with OpenDream and unleash your creativity.
+- **[Seedream 5.5](https://seedream5-5.net/)**: AI image generator and editor that creates images from text or reference photos and edits backgrounds, objects, lighting and in-image text in plain language.
 
 ## Industrial Design: Product Appearance Design
 

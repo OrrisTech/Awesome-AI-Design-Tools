@@ -157,6 +157,8 @@ A collection of the best AI design tools to enhance your creativity, productivit
 - **[LLMWare](https://llmware.ai/?utm_source=designaitool.com&utm_medium=referral&utm_campaign=firefly-takes-on-ai-video)**: Dev tool to make AI apps deployed privately or locally
 - **[DesignAi](https://www.toolify.ai/tool/designai?utm_source=designaitool.com&utm_medium=referral&utm_campaign=canva-s-top-design-trends-for-2025)**: Revolutionary AI-powered interior design web application.
 
+- **[APPLORE](https://applore.app/ai-app-icon-generator)**: AI app icon generator for mobile apps that uses a real App Store or Google Play icon (from an archive of 18,000+) as the style reference, with AI logo animation to Lottie.
+
 ## UI/UX Design: User Experience (UX) Design
 
 - **[InteriorAI](https://www.toolify.ai/tool/interiorai?utm_source=designaitool.com&utm_medium=referral&utm_campaign=revolutionizing-architecture-with-generative-ai-design)**: AI Styles Library for Midjourney AI.

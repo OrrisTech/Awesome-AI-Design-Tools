@@ -29,6 +29,7 @@ A collection of the best AI design tools to enhance your creativity, productivit
 
 ## Industrial Design: Product Appearance Design
 
+- **[TeslaWraps](https://teslawraps.design)**: Browser Tesla wrap designer — core editing + PNG export free without account; optional AI credits.
 - **[Akiflow](https://akiflow.com/ai?utm_source=designaitool.com&utm_medium=referral&utm_campaign=opera-s-ai-hijacks-your-browser-wow)**: Plan tasks and calendars seamlessly with this digital productivity tool.
 - **[Triplo AI](https://appsumo.com/products/triplo-ai/?utm_source=designaitool.com&utm_medium=referral&utm_campaign=siri-s-vision-upgrade-is-coming)**: Boost your productivity with an Al assistant that’s accessible on desktop and mobile
 - **[Simplicity AI](https://www.toolify.ai/tool/simplicityai?utm_source=designaitool.com&utm_medium=referral&utm_campaign=ai-is-turning-everyone-into-a-designer-the-democratization-of-creativity)**: Instantly create stunning product images using AI technology.

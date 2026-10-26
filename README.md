@@ -1,5 +1,6 @@
 # Awesome-AI-Design-Tools
 
+- [Ideoy](https://ideoy.ai) - Remake this week's meme videos with one selfie (AI image-to-video, freemium, adults only).
 A collection of the best AI design tools to enhance your creativity, productivity, and business management.
 
 ## Graphic Design: Branding & Logo Design

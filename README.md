@@ -38,6 +38,7 @@ A collection of the best AI design tools to enhance your creativity, productivit
 ## Interior Design: Decoration & Material Design
 
 - **[InteriorAI](https://www.toolify.ai/tool/interiorai?utm_source=designaitool.com&utm_medium=referral&utm_campaign=unveiling-the-top-graphic-design-trends-of-2024)**: Interior AI is an AI-powered tool that transforms users' interior photos into new styles, inspiring home decoration.
+- **[EmptyRoom AI](https://emptyroomai.com)**: AI virtual staging for real estate listing photos, furnishing vacant rooms in any style at $4 per room with free restages.
 - **[nan](https://www.toolify.ai/tool/interiorai?utm_source=designaitool.com&utm_medium=referral&utm_campaign=unveiling-the-top-graphic-design-trends-of-2024)**: Interior AI is an AI-powered tool that transforms users' interior photos into new styles, inspiring home decoration.
 
 ## Other Design Areas: Architectural Design

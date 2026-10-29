@@ -148,6 +148,7 @@ A collection of the best AI design tools to enhance your creativity, productivit
 - **[AI MC Texture](https://www.toolify.ai/tool/pixel-gpt?utm_source=designaitool.com&utm_medium=referral&utm_campaign=exploring-the-2d-art-of-sophia-du)**: Generate Minecraft textures from text input.
 - **[88stacks](https://www.toolify.ai/tool/88stacks?utm_source=designaitool.com&utm_medium=referral&utm_campaign=emerging-ai-driven-ui-design-trends-for-2024)**: 88stacks is an AI image generator for creating various AI-generated images.
 - **[Orkas](https://orkas.ai/agents/image-studio/?source=gh_orrisdesign)**: ImageStudio creates and edits visual assets inside Orkas, an open-source, local-first desktop AI workforce coordinated by a Commander.
+- **[ThumbnailSnap](https://thumbnailsnap.com/)**: AI thumbnail and cover maker for YouTube, Shorts, TikTok and Reels that keeps the headline as editable text, with free in-browser editing of your own photos and an AI photo editor that keeps the original aspect ratio.
 
 ## UI/UX Design: Mobile App Design
 

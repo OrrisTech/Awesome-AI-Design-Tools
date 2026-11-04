@@ -8,6 +8,7 @@ A collection of the best AI design tools to enhance your creativity, productivit
 
 ## Graphic Design: Illustration & Art Design
 
+- **[Vidney](https://vidney.ai/)**: AI 视频与图片工作台，统一账户和 credits，支持文字生成、参考图编辑及照片效果。
 - **[Raphael](https://raphael.app)**: AI creative workspace for image, video, and design production in one place.
 - **[SciSummary](https://scisummary.com/?utm_source=designaitool.com&utm_medium=referral&utm_campaign=openai-s-1m-coding-challenge)**: AI tool for fast summarization of scientific articles.
 - **[PearAI](https://trypear.ai/?utm_source=designaitool.com&utm_medium=referral&utm_campaign=opera-s-ai-hijacks-your-browser-wow)**: Open-source AI code editor for faster development and smarter coding.

@@ -38,6 +38,7 @@ A collection of the best AI design tools to enhance your creativity, productivit
 ## Interior Design: Decoration & Material Design
 
 - **[InteriorAI](https://www.toolify.ai/tool/interiorai?utm_source=designaitool.com&utm_medium=referral&utm_campaign=unveiling-the-top-graphic-design-trends-of-2024)**: Interior AI is an AI-powered tool that transforms users' interior photos into new styles, inspiring home decoration.
+- **[RoomRedecor](https://roomredecor.com/)**: Mark the part of a room photo you want to redesign and compare the proposed change with the original.
 - **[nan](https://www.toolify.ai/tool/interiorai?utm_source=designaitool.com&utm_medium=referral&utm_campaign=unveiling-the-top-graphic-design-trends-of-2024)**: Interior AI is an AI-powered tool that transforms users' interior photos into new styles, inspiring home decoration.
 
 ## Other Design Areas: Architectural Design

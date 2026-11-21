@@ -46,6 +46,7 @@ A collection of the best AI design tools to enhance your creativity, productivit
 - **[v.1.0](https://www.toolify.ai/tool/architectai?utm_source=designaitool.com&utm_medium=referral&utm_campaign=canva-s-top-design-trends-for-2025)**: AI platform enhances architectural design with automated recommendations.
 - **[nan](https://www.toolify.ai/tool/architectai?utm_source=designaitool.com&utm_medium=referral&utm_campaign=canva-s-top-design-trends-for-2025)**: AI platform enhances architectural design with automated recommendations.
 - **[ArchitectAI.app v.1.0](https://www.toolify.ai/tool/architectai?utm_source=designaitool.com&utm_medium=referral&utm_campaign=canva-s-top-design-trends-for-2025)**: AI platform enhances architectural design with automated recommendations.
+- **[ArchitecturesAI](https://architecturesai.com/)**: AI rendering tool that turns a text prompt, sketch, floor plan or site photo into a photorealistic architectural render, with interior, exterior, landscape and virtual staging tools.
 
 ## Other Design Areas: Game Design
 

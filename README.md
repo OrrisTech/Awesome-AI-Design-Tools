@@ -178,6 +178,7 @@ A collection of the best AI design tools to enhance your creativity, productivit
 - **[Roblox GUI Maker](https://robloxguimaker.dev/)**: Generate Roblox Studio GUI layouts and Lua starter code from prompts
 - **[Softgen](https://www.toolify.ai/tool/softgen?utm_source=designaitool.com&utm_medium=referral&utm_campaign=the-hottest-typography-trends-to-watch-in-2025)**: AI Web App Builder for quick, no-code application creation.
 - **[You x You i](https://www.youxyoui.io/)**: Automated UX / UI feedback for conversion and user acquisition.
+- **[Kite](https://kite.new/)**: Design tool your AI agents and your team share; Claude, ChatGPT, Cursor or Codex draw editable frames, text and components through a hosted MCP server, and frames copy to Figma or as HTML, React or Tailwind.
 
 ## Web Design: Responsive Design
 
